@@ -10,7 +10,7 @@ RewriteRule ^.*$ $0.html [L,QSA]
 RewriteCond %{THE_REQUEST} ([^\s]*)\.html(\?[^\s]*)?
 RewriteRule (.*) %1 [R=301,L]
 
-RewriteRule ^adamdar$ adamdar.html [QSA,L]
+RewriteRule ^sәulet$ sәulet.html [QSA,L]
 RewriteRule ^beineleu$ beineleu.html [QSA,L]
 RewriteRule ^ḡaryś-tylsym-әlem$ ḡaryś-tylsym-әlem.html [QSA,L]
 RewriteRule ^gůlder$ gůlder.html [QSA,L]
