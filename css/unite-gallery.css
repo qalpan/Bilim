@@ -823,29 +823,24 @@ img.ug-sepia-effect{
 	background-image:url('sůuretter/lightbox-icon-close.png');
 	background-position:0px 0px;
 	z-index:4;
-	cursor:pointer;
-}
+	cursor:pointer;}
 
 
 .ug-lightbox-compact .ug-lightbox-button-close{
 	width:45px;
 	height:41px;
-	background-image:url('sůuretter/lightbox-icon-close-compact2.png');
-}
+	background-image:url('sůuretter/lightbox-icon-close-compact2.png');}
 
 
 .ug-lightbox .ug-lightbox-arrow-left.ug-arrow-hover,
 .ug-lightbox .ug-lightbox-arrow-right.ug-arrow-hover{
-	background-position:0px -55px;	
-}
+	background-position:0px -55px;}
 
 .ug-lightbox .ug-lightbox-button-close.ug-button-hover{
-	background-position:0px -35px;
-}
+	background-position:0px -35px;}
 
 .ug-lightbox-compact .ug-lightbox-button-close.ug-button-hover{
-	background-position:0px -40px;
-}
+	background-position:0px -40px;}
 
 .ug-lightbox .ug-lightbox-numbers{
 	position:absolute;
@@ -853,14 +848,12 @@ img.ug-sepia-effect{
 	font-size:12px;
 	top:14px;
 	left:8px;
-	z-index:3;
-}
+	z-index:3;}
 
 .ug-lightbox-compact .ug-lightbox-numbers{
 	font-size: 14px;
 	padding-right:5px;
-	padding-top:7px;
-}
+	padding-top:7px;}
 
 .ug-lightbox .ug-textpanel-title{
 	font-size: 18px;
@@ -870,20 +863,19 @@ img.ug-sepia-effect{
 .ug-lightbox .ug-textpanel-description{
 	font-size: 12px;
 	font-weight: normal;
-	color: #bbbaa8;}	
+	color: #bbbaa8;
+        top: 26px;}	
 
 .ug-lightbox-compact .ug-textpanel-title,
 .ug-lightbox-compact .ug-textpanel-description{
 	color: #F3F3F3;
-	font-size: 26px;
-}
+	font-size: 26px;}
 
 .------------------LOADMORE_BUTTON---------------------{}
 
 .ug-loadmore-wrapper{
 	margin-top:20px;
-	text-align:center;	
-}
+	text-align:center;}
 
 .ug-loadmore-wrapper .ug-loadmore-button{
 	display:inline-block;
