@@ -865,16 +865,16 @@ img.ug-sepia-effect{
 .ug-lightbox .ug-textpanel-title{
 	font-size: 18px;
 	font-weight: normal;
-	color: #949384;}
+	color:#949384;}
 
 .ug-lightbox .ug-textpanel-description{
 	font-size: 12px;
 	font-weight: normal;
-	color:  #57574dff;}	
+	color: #bbbaa8;}	
 
 .ug-lightbox-compact .ug-textpanel-title,
 .ug-lightbox-compact .ug-textpanel-description{
-	color:#F3F3F3;
+	color: #F3F3F3;
 	font-size: 26px;
 }
 
